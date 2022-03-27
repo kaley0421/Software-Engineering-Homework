@@ -8,5 +8,7 @@ int main() {
 	cout << "Jimin First Commit" << endl;
 	cout << "Jimin Second Commit" << endl;
 
+	cout << "Seungho First Commit" << endl;
+
 	return 0;
 }
