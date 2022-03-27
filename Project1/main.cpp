@@ -9,6 +9,7 @@ int main() {
 	cout << "Jimin Second Commit" << endl;
 
 	cout << "Seungho First Commit" << endl;
+	cout << "Seungho Second Commit" << endl;
 
 	return 0;
 }
