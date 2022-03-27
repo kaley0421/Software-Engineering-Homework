@@ -12,5 +12,7 @@ int main() {
 	cout << "Seungho First Commit" << endl;
 	cout << "Seungho Second Commit" << endl;
 
+	cout << "Testing Github Desktop" << endl;
+
 	return 0;
 }
