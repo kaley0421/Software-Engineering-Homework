@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	cout << "Hello world !!" << endl;
+	cout << "Hello Visual Studio !!" << endl;
 
 	cout << "Jimin First Commit" << endl;
 	cout << "Jimin Second Commit" << endl;
